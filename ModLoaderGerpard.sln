@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModLoaderGerpard", "ModLoaderGerpard\ModLoaderGerpard.vcxproj", "{53FBC8EE-E297-4815-A559-27906623F170}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CF2FE7E-BE1B-4DDE-8205-1B8B7BAF2E29}"
+	ProjectSection(SolutionItems) = preProject
+		lib\libMinHook.x64.lib = lib\libMinHook.x64.lib
+		lib\libMinHook.x86.lib = lib\libMinHook.x86.lib
+		ModEntry.cpp = ModEntry.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hooks", "Hooks", "{A4ED22FC-D83F-4348-8B07-E5E4C575A793}"
+	ProjectSection(SolutionItems) = preProject
+		lib\libMinHook.x64.lib = lib\libMinHook.x64.lib
+		lib\libMinHook.x86.lib = lib\libMinHook.x86.lib
+		include\MinHook.h = include\MinHook.h
+		SWorldHooks.cpp = SWorldHooks.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FBC8EE-E297-4815-A559-27906623F170}.Debug|x64.ActiveCfg = Debug|x64
+		{53FBC8EE-E297-4815-A559-27906623F170}.Debug|x64.Build.0 = Debug|x64
+		{53FBC8EE-E297-4815-A559-27906623F170}.Debug|x86.ActiveCfg = Debug|Win32
+		{53FBC8EE-E297-4815-A559-27906623F170}.Debug|x86.Build.0 = Debug|Win32
+		{53FBC8EE-E297-4815-A559-27906623F170}.Release|x64.ActiveCfg = Release|x64
+		{53FBC8EE-E297-4815-A559-27906623F170}.Release|x64.Build.0 = Release|x64
+		{53FBC8EE-E297-4815-A559-27906623F170}.Release|x86.ActiveCfg = Release|Win32
+		{53FBC8EE-E297-4815-A559-27906623F170}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{53FBC8EE-E297-4815-A559-27906623F170} = {0CF2FE7E-BE1B-4DDE-8205-1B8B7BAF2E29}
+	EndGlobalSection
+EndGlobal

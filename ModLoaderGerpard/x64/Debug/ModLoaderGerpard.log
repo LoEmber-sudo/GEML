@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Felhasználó\source\repos\ModLoaderGerpard\ModLoaderGerpard\dllmain.cpp(24,15): error C2084: function 'BOOL DllMain(HMODULE,DWORD,LPVOID)' already has a body
+  (compiling source file '/dllmain.cpp')
+      C:\Users\Felhasználó\source\repos\ModLoaderGerpard\ModLoaderGerpard\dllmain.cpp(6,15):
+      see previous definition of 'DllMain'
+  

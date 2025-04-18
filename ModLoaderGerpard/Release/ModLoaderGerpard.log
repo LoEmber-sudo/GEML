@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  37 of 37 functions (100.0%) were compiled.
+    35 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ModLoaderGerpard.vcxproj -> C:\Users\Felhasználó\source\repos\ModLoaderGerpard\Release\ModLoaderGerpard.dll

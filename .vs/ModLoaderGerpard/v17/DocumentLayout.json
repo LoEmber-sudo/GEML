@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FBC8EE-E297-4815-A559-27906623F170}|ModLoaderGerpard\\ModLoaderGerpard.vcxproj|C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\ModLoaderGerpard\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53FBC8EE-E297-4815-A559-27906623F170}|ModLoaderGerpard\\ModLoaderGerpard.vcxproj|solutionrelative:ModLoaderGerpard\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF2FE7E-BE1B-4DDE-8205-1B8B7BAF2E29}|Solution Items{0CF2FE7E-BE1B-4DDE-8205-1B8B7BAF2E29}|C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\ModEntry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CF2FE7E-BE1B-4DDE-8205-1B8B7BAF2E29}|Solution Items{0CF2FE7E-BE1B-4DDE-8205-1B8B7BAF2E29}|solutionrelative:ModEntry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ED22FC-D83F-4348-8B07-E5E4C575A793}|Hooks{A4ED22FC-D83F-4348-8B07-E5E4C575A793}|C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\SWorldHooks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4ED22FC-D83F-4348-8B07-E5E4C575A793}|Hooks{A4ED22FC-D83F-4348-8B07-E5E4C575A793}|solutionrelative:SWorldHooks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SWorldHooks.cpp",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\SWorldHooks.cpp",
+              "RelativeDocumentMoniker": "SWorldHooks.cpp",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\SWorldHooks.cpp",
+              "RelativeToolTip": "SWorldHooks.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T19:57:55.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModEntry.cpp",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\ModEntry.cpp",
+              "RelativeDocumentMoniker": "ModEntry.cpp",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\ModEntry.cpp",
+              "RelativeToolTip": "ModEntry.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T19:56:23.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\ModLoaderGerpard\\dllmain.cpp",
+              "RelativeDocumentMoniker": "ModLoaderGerpard\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\Felhaszn\u00E1l\u00F3\\source\\repos\\ModLoaderGerpard\\ModLoaderGerpard\\dllmain.cpp",
+              "RelativeToolTip": "ModLoaderGerpard\\dllmain.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T19:34:57.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
